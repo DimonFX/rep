@@ -1,3 +1,7 @@
 1 d
 f
-df
+--f
+
+ff
+ffs
+s
