@@ -1,7 +1,9 @@
-1 d
-f
---f
+#include < stdio.h >
+#include < unistd.h >
+int main (void)
+{
+printf (“Hello word!!!\n”);
+sleep (5);
 
-ff
-ffs
-s
+return 0;
+}
